@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b777846.css",
+    "main.js": "/static/js/main.e280d31d.js",
+    "static/js/787.ebb66cfb.chunk.js": "/static/js/787.ebb66cfb.chunk.js",
+    "static/media/QIT Logo.png": "/static/media/QIT Logo.9193ca87589df416e072.png",
+    "static/media/dxicons.woff": "/static/media/dxicons.c568ff14b17313b699e2.woff",
+    "static/media/dxicons.ttf": "/static/media/dxicons.506efc48bb7054c11c4d.ttf",
+    "static/media/dxicons.woff2": "/static/media/dxicons.dc1bbe3fe80897e2c012.woff2",
+    "index.html": "/index.html",
+    "main.0b777846.css.map": "/static/css/main.0b777846.css.map",
+    "main.e280d31d.js.map": "/static/js/main.e280d31d.js.map",
+    "787.ebb66cfb.chunk.js.map": "/static/js/787.ebb66cfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b777846.css",
+    "static/js/main.e280d31d.js"
+  ]
+}
